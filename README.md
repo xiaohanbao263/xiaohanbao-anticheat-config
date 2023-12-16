@@ -6,7 +6,7 @@
 >
 > 可能在其他服务器会有误判，甚至可能不阻止你服务器里面的黑客
 > 
-> 遇到任何因为**本配置的绕过**可以给我[提交问题](https://github.com/TalentsDX/Talents-anticheat-config/issues/new/choose)
+> 遇到任何因为**本配置的绕过**可以给我[提交问题](https://github.com/xiaohanbao263/xiaohanbao-anticheat-config/issues/new/choose)
 > 
 > 如果你有问题可以自己修改配置进行改良
 > 
@@ -15,16 +15,15 @@
 > ---
 > 如果你是**新手小白服主**不知道怎么安装配置
 > 
->带上友好的态度 [联系我](https://qm.qq.com/cgi-bin/qm/qr?k=R0L6OiGpg-kWrQqN9aLLuVgArLZyGrFg&noverify=0)!
+>带上友好的态度
 >
 >我会**免费**帮助你
 > 
-> 链接不起作用？
 > 
-> 联系QQ1787766313
+> 联系QQ1434232058
 > 
 >
-> 邮箱联系(Email) 1787766313@QQ.COM
+> 邮箱联系(Email) xiaohanbao233@QQ.COM
 
 ---
 
@@ -42,7 +41,7 @@
 
 #### **“别人在倚老卖老但我在以老带新，只为了给名利场刮点清风。”**
 
-##### [更新日志](https://github.com/TalentsDX/Talents-anticheat-config/blob/main/.github/update-log.md)
+##### [更新日志](https://github.com/xiaohanbao263/xiaohanbao-anticheat-config/blob/main/.github/update-log.md)
 
 ---
 <div align="left">
@@ -54,7 +53,7 @@
 - 提升反作弊检测速度 
 - 减少反作弊误判
 - 独特的参数调配 
-- 替代那些 [*付费*](https://github.com/TalentsDX/Talents-anticheat-config/blob/main/.github/fuckyoupaidconfig.md) 反作弊配置
+- 替代那些 [*付费*](https://github.com/xiaohanbao263/xiaohanbao-anticheat-config/blob/main/.github/fuckyoupaidconfig.md) 反作弊配置
 - 完全免费
 ---
  
@@ -94,14 +93,14 @@
 ---
 
 ### ❓不知道如何选择反作弊❓
-#### 翻阅我制作的[wiki](https://github.com/TalentsDX/Talents-anticheat-config/wiki)
+#### 翻阅我制作的[wiki](https://github.com/xiaohanbao263/xiaohanbao-anticheat-config/wiki)
 #### 了解各个反作弊的特点
 #### 以及我对它们的见解
 ---
 
 ### 🔧如何安装🔧
 
-#### 1.点击[这里](https://github.com/TalentsDX/Talents-anticheat-config/archive/refs/heads/bukkit.zip)下载我的所有反作弊配置。
+#### 1.点击[这里](https://github.com/xiaohanbao263/xiaohanbao-anticheat-config/archive/refs/heads/bukkit.zip)下载我的所有反作弊配置。
 ####  2.替换掉原先反作弊的配置(yml)文件。
 ####  3.重新启动你的服务器。
 #### 4.享受反作弊！
