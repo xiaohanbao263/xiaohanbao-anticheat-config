@@ -1,0 +1,35 @@
+check_update: true
+
+#填写你的Token以激活matrix
+access_token: ''
+
+permission_refresh_interval: 60
+
+bungee_geysermc_support: false
+
+kick_strike_lightning: true
+
+discord_webhook:
+  enable: false
+  url: ''
+
+tps_protection:
+  enable: true
+
+  min_tps: 17.0
+
+  lag_threshold: 10000
+
+log_file: true
+
+delete_time: 30
+
+disable_bypass_permission: true
+
+relog_time: 0
+
+custom_vl_weight:
+  - 'bp.timer:1'
+  - 'move.invmove:1'
+  - 'move.vert:5'
+  - 'move.hor:1'
